@@ -1,0 +1,32 @@
+.header {
+  font-size: 35px;
+}
+.title {
+  font-size: 25px;
+  text-align: left;
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.switch {
+  border: none;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.delail {
+  padding: 10px;
+}
+
+.text {
+  text-align: left;
+  padding: 5px;
+  background-color: #ffddff;
+}
+
+.coment {
+  padding: 5px;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
